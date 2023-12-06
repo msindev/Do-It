@@ -10,10 +10,10 @@
             android:layout_height="wrap_content"
             android:textStyle="bold"
             android:textColor="@android:color/black"
-            android:layout_marginStart="16dp"
-            android:layout_marginBottom="16dp"
-            android:layout_marginTop="16dp"
-            android:textSize="32sp"
+            android:layout_marginStart="19dp"
+            android:layout_marginBottom="19dp"
+            android:layout_marginTop="19dp"
+            android:textSize="42sp"
             android:text="@string/tasks" />
 
         <androidx.recyclerview.widget.RecyclerView
